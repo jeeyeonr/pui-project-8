@@ -1,0 +1,171 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+/* Background image for BunBun home screen */
+.header-1
+{
+    background-image: url(Purple.png);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.header-2
+{
+    background-image: url(Landing-1.png);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+
+
+/* Home screen text location */ 
+.text-box
+{
+    position: absolute;
+    width: 1200px;
+    margin-left: 220px;
+    margin-top: 200px;
+}
+/* Home screen text styles */ 
+.banner
+{
+    color: white;
+    text-transform: uppercase;
+    font-size: 75px;
+    text-align: center;
+    margin-top: 75px;
+    margin-left: 80px;
+}
+
+/* Home screen Browse Button location */ 
+.button
+{
+    margin-top: 50px;
+    margin-left: 480px;
+}
+/* Home screen Browse Button location */ 
+.btn
+{
+    border: 1px solid transparent;
+    padding: 10px 50px;
+    color: white;
+    margin-right: 5px;
+    font-size: 13px;
+    text-transform: uppercase;
+}
+/* Home screen Browse Button style */ 
+.btn-one
+{
+    background-color: darkcyan;
+    font-family: "Roboto", sans-serif;
+}
+/* Home screen Browse Button hover interaction */ 
+.btn:hover{
+    background-color: darkcyan;
+    color: white;
+}
+
+.vending-image{
+    height:100vh;
+    width:100vh;
+    background: no-repeat center center scroll;
+    -webkit-background-size:cover;
+    background-size: cover;
+}
+
+/*Carousel css*/
+.carousel-item{
+    height: 100vh;
+    width: 100vh;
+    background: no-repeat center center scroll;
+    -webkit-background-size:cover;
+    background-size: cover;
+}
+.carousel-caption{
+    bottom: 220px;
+    top: 330px;
+}
+.carousel-caption h5{
+    font-size: 45px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-top: 35px;
+    text-align: left;
+    font-family: "Roboto", sans-serif;
+}
+.carousel-caption p{
+    width: 60%;
+    margin: auto;
+    font-size: 18px;
+    line-height:1.9;
+    font-family: "Roboto", sans-serif;
+
+}
+
+.carousel-caption a{
+    text-transform:uppercase;
+    background: darkcyan;
+    padding: 10px 30px;
+    display: inline-block;
+    color: #fff;
+    margin-top: 15px;
+}
+.cursor {
+    width:80px;
+    height: 80px;
+    border: 2px solid black;
+    border-radius: 50%;
+    margin-top:-100px;
+    margin-left:1000px;
+    transform: translate(-50%, -50%);
+}
+.cursor-2 {
+    width:80px;
+    height: 80px;
+    background-color:white;
+    opacity: 0.5;
+    border: 2px solid white;
+    border-radius: 50%;
+    margin-top:-140px;
+    margin-left:1000px;
+    transform: translate(-50%, -50%);
+}
+
+
+.button-2
+{
+    margin-top: 20px;
+    margin-left: 400px;
+    align-items: center;
+}
+
+.button-3
+{
+    margin-top: 80px;
+    margin-left: 400px;
+    align-items: center;
+}
+
+
+/* Home screen text location */ 
+.text-box-2
+{
+    position: absolute;
+    width: 1200px;
+    margin-left: 120px;
+    margin-top: 200px;
+}
+.banner-2
+{
+    color:black;
+    text-transform: uppercase;
+    font-size: 55px;
+    text-align: left;
+    margin-top: 75px;
+    margin-left: 80px;
+}
